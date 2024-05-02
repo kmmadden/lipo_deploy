@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.8.1+cpu
-torchvision==0.9.1+cpu
+torch==1.8.1
+torchvision==0.9.1
 opencv-python-headless==4.5.2.54
 streamlit==0.82.0
 plotly==4.14.3
@@ -10,3 +10,4 @@ matplotlib==3.4.2
 seaborn==0.11.1
 psutil
 numpy==1.23
+protobuf==3.20.0
