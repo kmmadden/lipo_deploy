@@ -11,4 +11,4 @@ seaborn==0.11.1
 psutil
 numpy==1.23
 protobuf==3.20.0
-ultralytics
+ultralytics=8.0.112
