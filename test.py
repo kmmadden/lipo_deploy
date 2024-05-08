@@ -123,3 +123,6 @@ def display_results(img, pos, neg, xmin=None, ymin=None, xmax=None, ymax=None):
 
 cnn_model = create_model()
 cnn_model.eval()
+
+yolo_model = create_yolo_model()
+yolo_model.eval()
