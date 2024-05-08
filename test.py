@@ -125,4 +125,3 @@ cnn_model = create_model()
 cnn_model.eval()
 
 yolo_model = create_yolo_model()
-yolo_model.eval()
