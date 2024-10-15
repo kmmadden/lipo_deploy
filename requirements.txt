@@ -10,4 +10,3 @@ seaborn==0.11.1
 psutil
 numpy==1.23
 ultralytics
-export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
