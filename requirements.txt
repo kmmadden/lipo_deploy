@@ -1,5 +1,5 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-streamlit==0.82.0
+streamlit>=1.22.0
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 opencv-python-headless==4.6.0.66
@@ -10,3 +10,4 @@ seaborn==0.11.1
 psutil
 numpy==1.23
 ultralytics
+protobuf==3.20.3
